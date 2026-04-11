@@ -112,15 +112,12 @@ p {
   font-weight: 600;
   border-radius: 6px;
   padding: 0.8rem;
+  background-color: var(--grey-tint);
+  color: var(--white);
   transition: background-color 0.3s, color 0.3s;
 }
 
 /* ------UI ELEMENTS------ */
-
-.social-link:link, .social-link:visited {
-  background-color: var(--grey-tint);
-  color: var(--white);
-}
 
 .social-link:hover, .social-link:focus {
   background-color: var(--primary-base);
