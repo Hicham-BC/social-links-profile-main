@@ -13,7 +13,7 @@ The designs were created to the following widths:
 
 - Green: #c5f82a
 
-- White: #ffffff
+- White: rgb(255, 255, 255)
 
 - Grey 700: #333333
 - Grey 800: #1f1f1f
